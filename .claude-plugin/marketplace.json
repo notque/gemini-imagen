@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "notque-gemini-imagen",
+  "description": "AI image generation using Google Gemini APIs",
+  "owner": {
+    "name": "notque",
+    "email": "notque@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "gemini-imagen",
+      "description": "Generate images using Google Gemini APIs with post-processing options",
+      "version": "1.0.0",
+      "author": {
+        "name": "notque"
+      },
+      "source": ".",
+      "category": "development"
+    }
+  ]
+}

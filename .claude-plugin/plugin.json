@@ -1,0 +1,21 @@
+{
+  "name": "gemini-imagen",
+  "description": "Add AI image generation to Claude Code using Google Gemini's image generation APIs. Generate images from text prompts with watermark removal and background transparency options.",
+  "version": "1.0.0",
+  "author": {
+    "name": "notque",
+    "url": "https://github.com/notque"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/notque/gemini-imagen"
+  },
+  "license": "MIT",
+  "keywords": [
+    "gemini",
+    "image-generation",
+    "ai",
+    "text-to-image",
+    "claude-code"
+  ]
+}
